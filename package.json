@@ -1,0 +1,21 @@
+{
+  "name": "karma-slim-once",
+  "version": "0.0.1",
+  "description": "Only run slimrb once",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Nate Agrin",
+    "email": "natenate@looker.com"
+  },
+  "license": "MIT",
+  "readme": "ERROR: No README data found!",
+  "_id": "karma-slim-once@0.0.1",
+  "_shasum": "b7069c1bd57b590eb010e13c05a416c1fb60a82e",
+  "_from": "../karma-slim-once",
+  "devDependencies": {
+    "execSync": "^1.0.2"
+  }
+}
