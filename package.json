@@ -1,6 +1,6 @@
 {
   "name": "karma-slim-once",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Only run slimrb once",
   "main": "lib/index.js",
   "scripts": {
@@ -20,6 +20,7 @@
   "_shasum": "b7069c1bd57b590eb010e13c05a416c1fb60a82e",
   "_from": "../karma-slim-once",
   "devDependencies": {
-    "execSync": "^1.0.2"
+    "execSync": "^1.0.2",
+    "sleep": "^1.1.8"
   }
 }
