@@ -20,9 +20,7 @@
   "_shasum": "b7069c1bd57b590eb010e13c05a416c1fb60a82e",
   "_from": "../karma-slim-once",
   "dependencies": {
+    "execSync": "^1.0.2",
     "sleep": "^1.1.8"
   }
-  "devDependencies": {
-    "execSync": "^1.0.2",
-  },
 }
