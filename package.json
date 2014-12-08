@@ -1,6 +1,6 @@
 {
   "name": "karma-slim-once",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Only run slimrb once",
   "main": "lib/index.js",
   "scripts": {
